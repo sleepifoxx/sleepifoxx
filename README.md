@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepifoxx&label=Profile%20views&color=0e75b6&style=flat" alt="sleepifoxx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepifoxx" alt="sleepifoxx" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/real_sleepifoxx" target="blank"><img src="https://img.shields.io/twitter/follow/real_sleepifoxx?logo=twitter&style=for-the-badge" alt="real_sleepifoxx" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sleepifoxx](https://github.com/sleepifoxx)
@@ -27,7 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sleepifoxx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sleepifoxx" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepifoxx&show_icons=true&locale=en&layout=compact" alt="sleepifoxx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleepifoxx&show_icons=true&locale=en" alt="sleepifoxx" /></p>
